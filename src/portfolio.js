@@ -397,8 +397,8 @@ const contactInfo = {
   title: "Contact Me ",
   subtitle:
     "",
-  //number: "+92-0000000000",
-  //email_address: "saadpasta70@gmail.com"
+  number: "765.205.2592",
+  email_address: "brad@bradwood.dev"
 };
 
 // Twitter Section
