@@ -181,10 +181,11 @@ const workExperiences = {
       company: "Farmer Brad LLC",
       companylogo: require("./assets/images/farmerbrad.png"),
       date: "March 2015 – Present",
-      desc: ", consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "",
       descBullets: [
         "Raise Pastured Poultry and Grass Fed Lamb",
-        "Make and sell Farmer Brad Automatic Chicken Waterer"
+        "Make and sell Farmer Brad Automatic Chicken Waterer",
+        "Offer Chicken Rental Packages"
       ]
     },
     {
@@ -201,11 +202,11 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Liferay",
       companylogo: require("./assets/images/liferay.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "2010 – 2013",
+      desc: "Worked in both Front End Department and Consulting Services",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Front End Developer",
+        "Helped create Resources Importer to help in Theme Development"
       ]
     }
   ]
