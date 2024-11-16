@@ -363,8 +363,8 @@ const talkSection = {
       subtitle: "WebCon 2019"
     },
     {
-      title: "Raising Chickens- Sustainable Backyard Flock ",
-      subtitle: "Indiana Homesteading Conference 2022",
+      title: "Raising Chickens",
+      subtitle: "Sustainable Backyard Flock - Indiana Homesteading Conference 2022",
       event_url: "https://www.indianahomesteadingconference.com/speaker-info/bradley-wood"
     }
   ],
