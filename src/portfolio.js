@@ -361,6 +361,11 @@ const talkSection = {
     {
       title: "Bringing your CMS into the 21st century",
       subtitle: "WebCon 2019"
+    },
+    {
+      title: "Raising Chickens- Sustainable Backyard Flock ",
+      subtitle: "Indiana Homesteading Conference 2022",
+      event_url: "https://www.indianahomesteadingconference.com/speaker-info/bradley-wood"
     }
   ],
   display: true // Set false to hide this section, defaults to true
