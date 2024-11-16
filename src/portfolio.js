@@ -108,7 +108,7 @@ const educationInfo = {
       schoolName: "Butler University",
       logo: require("./assets/images/butler.png"),
       subHeader: "Master of Business Administration",
-      duration: "January 2022 - May 2006",
+      duration: "January 2022 - May 2026",
       desc: "Focus on Entrpreneurship and Innovation",
       //descBullets: [
       //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
