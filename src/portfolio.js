@@ -332,7 +332,20 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: true,
-  blogs: [],
+  blogs: [
+    {
+      url: "https://bradwooddev.medium.com/building-an-seo-meta-tag-analyzer-and-generator-a-developers-guide-2f439af60279",
+      title: "Building an SEO Meta Tag Analyzer and Generator: A Developer’s Guide",
+      description:
+        "I’ll walk you through how I built an SEO Meta Tag Analyzer & Generator, sharing insights on the thought process, technical implementation, and how this tool can help developers optimize their web projects."
+    },
+    {
+      url: "https://bradwooddev.medium.com/building-a-free-pomodoro-timer-boost-focus-and-productivity-1c86f87cb184",
+      title: "Building a Free Pomodoro Timer: Boost Focus and Productivity",
+      description:
+        "The Pomodoro Technique is a proven time management strategy that breaks work into focused intervals, typically 25 minutes long, separated by short breaks. Inspired by its simplicity and effectiveness, I decided to build a Pomodoro Timer as a web-based productivity tool."
+    }
+  ],
   display: true // Set false to hide this section, defaults to true
 };
 
