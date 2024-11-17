@@ -332,7 +332,7 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: true,
-  blogs:{},
+  blogs: [],
   display: true // Set false to hide this section, defaults to true
 };
 
