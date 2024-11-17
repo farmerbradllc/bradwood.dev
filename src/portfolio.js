@@ -331,7 +331,8 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "true", 
+  displayMediumBlogs: true, // Set true to display fetched medium blogs instead of hardcoded ones
+  blogs: [],
   display: true // Set false to hide this section, defaults to true
 };
 
