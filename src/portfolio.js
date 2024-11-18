@@ -192,9 +192,10 @@ const workExperiences = {
       company: "City of Sierra Madre",
       companylogo: require("./assets/images/cityofsierramadre.jpg"),
       date: "2014",
-      desc: "Manage the complex functions of both the City's and the Library's electronic resources, including the City website, and digital content. Contribute to the development, implementation and evaluation of technology plans, polices and procedures. Located in the Library but work with all City departments.",
+      desc: "",
       descBullets: [
-        
+        "Contribute to the development, implementation, and evaluation of technology strategies, policies, and procedures.",
+        "Operate from the Library while collaborating with all City departments to ensure cohesive technology solutions."
       ]
     },
     {
