@@ -94,6 +94,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "firebase",
+      fontAwesomeClassname: "fab fa-firebase"
     }
   ],
   display: true// Set false to hide this section, defaults to true
