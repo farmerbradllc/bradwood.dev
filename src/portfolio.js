@@ -163,20 +163,6 @@ const workExperiences = {
       ]
     },
     {
-      role: "Lead Web Developer and Web Project Manager",
-      company: "Earlham College",
-      companylogo: require("./assets/images/earlham.jpg"),
-      date: "Nov. 2016 – Apr. 2021",
-      desc: "",
-      descBullets: [
-        "Sole developer managing Earlham.edu and creating microsites for marketing and admissions",
-"Maintained and enhanced user experience on the Umbraco CMS (ASP.NET with Razor) and Apostrophe CMS.",
-"Mentored and trained up to four student developers on CMS platforms.",
-"Collaborated with external vendors to ensure compliance with project requirements and deliverables.",
-"Transitioned to WordPress, maintaining Umbraco while supporting new content creation on the platform."
-      ]
-    },
-    {
       role: "Owner & Founder",
       company: "Farmer Brad LLC",
       companylogo: require("./assets/images/farmerbrad.png"),
@@ -186,6 +172,19 @@ const workExperiences = {
         "Raise Pastured Poultry and Grass Fed Lamb",
         "Make and sell Farmer Brad Automatic Chicken Waterer",
         "Offer Chicken Rental Packages"
+      ]
+    },
+    {
+      role: "Lead Web Developer and Web Project Manager",
+      company: "Earlham College",
+      companylogo: require("./assets/images/earlham.jpg"),
+      date: "Nov. 2016 – Apr. 2021",
+      desc: "",
+      descBullets: [
+        "Optimized user experience in Umbraco CMS (ASP.NET with Razor) and Apostrophe CMS.",
+        "Mentored up to four student developers on CMS platforms.",
+        "Collaborated with external vendors to meet project requirements.",
+        "Transitioned to WordPress while maintaining Umbraco and supporting new content creation."
       ]
     },
     {
