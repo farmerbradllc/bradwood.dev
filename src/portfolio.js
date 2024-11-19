@@ -4,6 +4,7 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import { Slide } from "react-reveal";
 
 // Splash Screen
 
@@ -360,7 +361,8 @@ const talkSection = {
   talks: [
     {
       title: "Bringing your CMS into the 21st century",
-      subtitle: "WebCon 2019"
+      subtitle: "WebCon 2019",
+      slides_url: "https://docs.google.com/presentation/d/1Ifml4l3kHTNay9YQkPgeaRxRIe8352WB0AKGSR2r8fw/edit?usp=sharing",
     },
     {
       title: "Raising Chickens",
