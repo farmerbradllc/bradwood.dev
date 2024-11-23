@@ -36,7 +36,7 @@ def generate_sitemap(domain, urls):
     Generates a sitemap XML file for a given domain and URLs.
     """
     # Get the absolute path to the 'sitemaps' directory
-    output_dir = os.path.abspath("./sitemaps")
+    output_dir = os.path.abspath("./public/sitemaps")
     os.makedirs(output_dir, exist_ok=True)  # Create directory if it doesn't exist
 
     # Create a filename for the sitemap
