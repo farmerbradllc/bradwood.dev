@@ -65,9 +65,9 @@ def generate_master_sitemap(domain, sitemap_files):
     for sitemap_file in sitemap_files:
         sitemap_element = SubElement(sitemap_index, "sitemap")
         loc = SubElement(sitemap_element, "loc")
-        loc.text = f"https://{domain}/{os.path.basename(sitemap_file)}"
+        loc.text = f"https://{domain}/sitemaps/{os.path.basename(sitemap_file)}"
     
-    with open("sitemap_master.xml", "wb") as f:
+    with open("public/sitemap_master.xml", "wb") as f:
         tree = ElementTree(sitemap_index)
         tree.write(f)
     print("Master sitemap saved as sitemap_master.xml")
